@@ -1,0 +1,16 @@
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\bin\Debug\net8.0-windows\ImageViewer.exe
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\bin\Debug\net8.0-windows\ImageViewer.deps.json
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\bin\Debug\net8.0-windows\ImageViewer.runtimeconfig.json
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\bin\Debug\net8.0-windows\ImageViewer.dll
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\bin\Debug\net8.0-windows\ImageViewer.pdb
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.MainForm.resources
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.csproj.GenerateResource.cache
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfoInputs.cache
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfo.cs
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.csproj.CoreCompileInputs.cache
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.dll
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\refint\ImageViewer.dll
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.pdb
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.genruntimeconfig.cache
+D:\31231021469_NguyenHoangMinh\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ref\ImageViewer.dll
